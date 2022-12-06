@@ -1,0 +1,10 @@
+ <!-- <a href="https://www.flaticon.es/iconos-gratis/joven" title="joven iconos">Joven iconos creados por Creartive - Flaticon</a> -->
+  <!-- https://www.flaticon.es/icono-gratis/desarrollo-de-habilidades_3115497?term=habilidades&page=1&position=7&page=1&position=7&related_id=3115497&origin=search -->
+  <!-- <a href="https://www.flaticon.es/iconos-gratis/colegio" title="colegio iconos">Colegio iconos creados por Freepik - Flaticon</a> -->
+  <!-- <a href="https://www.flaticon.es/iconos-gratis/java" title="java iconos">Java iconos creados por Pixel perfect - Flaticon</a> -->
+  <!-- <a href="https://www.flaticon.es/iconos-gratis/css" title="css iconos">Css iconos creados por Pixel perfect - Flaticon</a> -->
+  <!-- <a href="https://www.flaticon.es/iconos-gratis/html-5" title="html 5 iconos">Html 5 iconos creados por Pixel perfect - Flaticon</a> -->
+  <!-- <a href="https://www.flaticon.es/iconos-gratis/piton" title="pitón iconos">Pitón iconos creados por Freepik - Flaticon</a> -->
+  <!-- <a href="https://www.flaticon.es/iconos-gratis/letra-c" title="letra c iconos">Letra c iconos creados por Hight Quality Icons - Flaticon</a> -->
+  <!-- <a href="https://www.flaticon.es/iconos-gratis/git" title="git iconos">Git iconos creados por riajulislam - Flaticon</a> -->
+  <!-- <a href="https://www.flaticon.com/free-icons/microsoft" title="microsoft icons">Microsoft icons created by Pixel perfect - Flaticon</a> -->
